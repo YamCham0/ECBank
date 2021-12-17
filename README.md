@@ -1,4 +1,4 @@
-# ECBank
+# Hyrule Bazaar
 
 ## Description
 
@@ -25,7 +25,7 @@ THEN I am able to successfully create, update, and delete data in my database
 Follow the video guide.
 
 ## Usage
-[Video link here.](https://drive.google.com/file/d/1RGehYzsuP33vXAO1_BUi-uJcr72urgGb/view)
+[Video link here.](https://drive.google.com/file/d/1rHop8AWO_Bau63566o7YbSkjBrhPHydI/view)
 
 ## License
 
@@ -36,4 +36,4 @@ Follow the video guide.
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
  ## GitHub
- [Link Here](https://github.com/YamCham0/ECBank)
+ [Link Here](https://github.com/YamCham0/Hyrule_Bazaar)
