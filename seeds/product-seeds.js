@@ -2,33 +2,39 @@ const { Product } = require('../models');
 
 const productData = [
   {
-    product_name: 'Plain T-Shirt',
-    price: 14.99,
-    stock: 14,
-    category_id: 1,
+    product_name: 'Ice Arrow',
+    price: 10.55,
+    stock: 1,
+    category_id: 5,
   },
   {
-    product_name: 'Running Sneakers',
-    price: 90.0,
+    product_name: 'Fire Arrow',
+    price: 10.99,
     stock: 25,
     category_id: 5,
   },
   {
-    product_name: 'Branded Baseball Hat',
-    price: 22.99,
+    product_name: 'Bomb-chu',
+    price: 20.45,
     stock: 12,
     category_id: 4,
   },
   {
-    product_name: 'Top 40 Music Compilation Vinyl Record',
-    price: 12.99,
+    product_name: "Mustard Sword",
+    price: 99.99,
     stock: 50,
     category_id: 3,
   },
   {
-    product_name: 'Cargo Shorts',
+    product_name: "Green Potion",
+    price: 9.99,
+    stock: 50,
+    category_id: 1,
+  },
+  {
+    product_name: 'Hylian Shield',
     price: 29.99,
-    stock: 22,
+    stock: 20,
     category_id: 2,
   },
 ];
